@@ -3,4 +3,6 @@ int main()
 {
 int a=12
 printf("Num=%d",a)
+int b=10;
+printf("Num=%d",b);
 }
