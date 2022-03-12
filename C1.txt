@@ -3,5 +3,6 @@ int main()
 {
 int a=20;
 printf("a=%d",a);
+printf("Welcome");
 return 0;
 }
